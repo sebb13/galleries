@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translations>
+	<GALLERIES><![CDATA[Galerías]]></GALLERIES>
+	<GALLERIES_MANAGER><![CDATA[Gerente de Galería]]></GALLERIES_MANAGER>
+	<MANAGE_GALLERIES><![CDATA[Administrar galerías]]></MANAGE_GALLERIES>
+	<MANAGE_GALLERY><![CDATA[Administrar esta galería]]></MANAGE_GALLERY>
+	<MANAGE_ARCHIVED_GALLERIES><![CDATA[Administrar galerías archivadas]]></MANAGE_ARCHIVED_GALLERIES>
+	<CREATE_GALLERY><![CDATA[Crea una galería]]></CREATE_GALLERY>
+	<SUCCESS_CREATE_GALLERY><![CDATA[Galería creada con éxito]]></SUCCESS_CREATE_GALLERY>
+	<ERROR_CREATE_GALLERY><![CDATA[No se puede crear una galería]]></ERROR_CREATE_GALLERY>
+	<SUCCESS_ARCHIVE_GALLERY><![CDATA[Galería archivada con éxito]]></SUCCESS_ARCHIVE_GALLERY>
+	<ERROR_ARCHIVE_GALLERY><![CDATA[No se puede archivar la galería]]></ERROR_ARCHIVE_GALLERY>
+	<CONFIRM_ARCHIVE_GALLERY><![CDATA[¿Seguro que quieres archivar esta galería?]]></CONFIRM_ARCHIVE_GALLERY>
+	<RESTORE_GALLERY><![CDATA[Restaurar galería]]></RESTORE_GALLERY>
+	<SUCCESS_RESTORE_GALLERY><![CDATA[Galería restaurada con éxito]]></SUCCESS_RESTORE_GALLERY>
+	<ERROR_RESTORE_GALLERY><![CDATA[No se puede restaurar la galería]]></ERROR_RESTORE_GALLERY>
+	<SUCCESS_DELETE_GALLERY><![CDATA[Galería borrada con éxito]]></SUCCESS_DELETE_GALLERY>
+	<ERROR_DELETE_GALLERY><![CDATA[No se puede borrar la galería]]></ERROR_DELETE_GALLERY>
+	<CONFIRM_DELETE_GALLERY><![CDATA[¿Seguro que quieres eliminar esta galería?]]></CONFIRM_DELETE_GALLERY>
+	<ACTIVE_GALLERIES><![CDATA[Galerías activas]]></ACTIVE_GALLERIES>
+	<ARCHIVED_GALLERIES><![CDATA[Galerías archivadas]]></ARCHIVED_GALLERIES>
+	<ADD_MEDIA><![CDATA[Añadir un medio]]></ADD_MEDIA>
+	<ADD_MEDIA_TOOLTIP><![CDATA[Puede agregar uno o más medios a su galería completando la ID de los nuevos medios o las nuevas ID de medios separadas por comas (por ejemplo, 12,15,36)]]></ADD_MEDIA_TOOLTIP>
+	<SUCCESS_ADD_MEDIA><![CDATA[Medios agregados con éxito]]></SUCCESS_ADD_MEDIA>
+	<ERROR_ADD_MEDIA><![CDATA[No se pueden agregar medios]]></ERROR_ADD_MEDIA>
+	<CONFIRM_REMOVE_MEDIA><![CDATA[¿Seguro que quieres eliminar este medio?]]></CONFIRM_REMOVE_MEDIA>
+	<SUCCESS_REMOVE_MEDIA><![CDATA[Medios eliminados con éxito]]></SUCCESS_REMOVE_MEDIA>
+	<ERROR_REMOVE_MEDIA><![CDATA[No se puede eliminar este medio]]></ERROR_REMOVE_MEDIA>
+	<CONFIRM_DELETE_MEDIA><![CDATA[¿Seguro que quieres eliminar este medio de tu galería y medios?]]></CONFIRM_DELETE_MEDIA>
+	<SUCCESS_DELETE_MEDIA><![CDATA[Medios borrados con éxito]]></SUCCESS_DELETE_MEDIA>
+	<ERROR_DELETE_MEDIA><![CDATA[No se puede eliminar este medio]]></ERROR_DELETE_MEDIA>
+</translations>

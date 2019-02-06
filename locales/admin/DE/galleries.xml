@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translations>
+	<GALLERIES><![CDATA[Galerien]]></GALLERIES>
+	<GALLERIES_MANAGER><![CDATA[Galerie-Manager]]></GALLERIES_MANAGER>
+	<MANAGE_GALLERIES><![CDATA[Galerien verwalten]]></MANAGE_GALLERIES>
+	<MANAGE_GALLERY><![CDATA[Diese Galerie verwalten]]></MANAGE_GALLERY>
+	<MANAGE_ARCHIVED_GALLERIES><![CDATA[Verwalten archivierter Galerien]]></MANAGE_ARCHIVED_GALLERIES>
+	<CREATE_GALLERY><![CDATA[Eine Galerie erstellen]]></CREATE_GALLERY>
+	<SUCCESS_CREATE_GALLERY><![CDATA[Galerie erfolgreich erstellt]]></SUCCESS_CREATE_GALLERY>
+	<ERROR_CREATE_GALLERY><![CDATA[Galerie kann nicht erstellt werden]]></ERROR_CREATE_GALLERY>
+	<SUCCESS_ARCHIVE_GALLERY><![CDATA[Galerie erfolgreich archiviert]]></SUCCESS_ARCHIVE_GALLERY>
+	<ERROR_ARCHIVE_GALLERY><![CDATA[Galerie kann nicht archiviert werden]]></ERROR_ARCHIVE_GALLERY>
+	<CONFIRM_ARCHIVE_GALLERY><![CDATA[Möchten Sie diese Galerie wirklich archivieren?]]></CONFIRM_ARCHIVE_GALLERY>
+	<RESTORE_GALLERY><![CDATA[Galerie wiederherstellen]]></RESTORE_GALLERY>
+	<SUCCESS_RESTORE_GALLERY><![CDATA[Galerie wurde erfolgreich wiederhergestellt]]></SUCCESS_RESTORE_GALLERY>
+	<ERROR_RESTORE_GALLERY><![CDATA[Kann die Galerie nicht wiederherstellen]]></ERROR_RESTORE_GALLERY>
+	<SUCCESS_DELETE_GALLERY><![CDATA[Galerie erfolgreich gelöscht]]></SUCCESS_DELETE_GALLERY>
+	<ERROR_DELETE_GALLERY><![CDATA[Galerie kann nicht gelöscht werden]]></ERROR_DELETE_GALLERY>
+	<CONFIRM_DELETE_GALLERY><![CDATA[Möchtest du diese Galerie wirklich löschen?]]></CONFIRM_DELETE_GALLERY>
+	<ACTIVE_GALLERIES><![CDATA[Aktive Galerien]]></ACTIVE_GALLERIES>
+	<ARCHIVED_GALLERIES><![CDATA[Archivierte Galerien]]></ARCHIVED_GALLERIES>
+	<ADD_MEDIA><![CDATA[Fügen Sie ein Medium hinzu]]></ADD_MEDIA>
+	<ADD_MEDIA_TOOLTIP><![CDATA[Sie können Ihrer Galerie ein oder mehrere Medien hinzufügen, indem Sie die ID des neuen Mediums oder die neuen Medien-IDs durch Kommas getrennt eingeben (Beispiel 12, 15, 36)]]></ADD_MEDIA_TOOLTIP>
+	<SUCCESS_ADD_MEDIA><![CDATA[Medien erfolgreich hinzugefügt]]></SUCCESS_ADD_MEDIA>
+	<ERROR_ADD_MEDIA><![CDATA[Kann keine Medien hinzufügen]]></ERROR_ADD_MEDIA>
+	<CONFIRM_REMOVE_MEDIA><![CDATA[Möchten Sie dieses Medium wirklich entfernen?]]></CONFIRM_REMOVE_MEDIA>
+	<SUCCESS_REMOVE_MEDIA><![CDATA[Medien erfolgreich entfernt]]></SUCCESS_REMOVE_MEDIA>
+	<ERROR_REMOVE_MEDIA><![CDATA[Kann dieses Medium nicht entfernen]]></ERROR_REMOVE_MEDIA>
+	<CONFIRM_DELETE_MEDIA><![CDATA[Möchten Sie dieses Medium wirklich aus Ihrer Galerie und Ihrem Medium löschen?]]></CONFIRM_DELETE_MEDIA>
+	<SUCCESS_DELETE_MEDIA><![CDATA[Medien erfolgreich gelöscht]]></SUCCESS_DELETE_MEDIA>
+	<ERROR_DELETE_MEDIA><![CDATA[Kann dieses Medium nicht löschen]]></ERROR_DELETE_MEDIA>
+</translations>

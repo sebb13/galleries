@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<routes><galleries_home><![CDATA[Galleries::getHomePage]]></galleries_home><galleries_manager><![CDATA[Galleries::getGalleriesManager]]></galleries_manager><gallery_manager><![CDATA[Galleries::getGalleryManager]]></gallery_manager></routes>

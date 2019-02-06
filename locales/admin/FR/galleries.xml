@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translations>
+	<GALLERIES><![CDATA[Galeries]]></GALLERIES>
+	<GALLERIES_MANAGER><![CDATA[Gestionnaire de galeries]]></GALLERIES_MANAGER>
+	<MANAGE_GALLERIES><![CDATA[Gérer les galeries]]></MANAGE_GALLERIES>
+	<MANAGE_GALLERY><![CDATA[Gérer cette galerie]]></MANAGE_GALLERY>
+	<MANAGE_ARCHIVED_GALLERIES><![CDATA[Gérer les galeries archivées]]></MANAGE_ARCHIVED_GALLERIES>
+	<CREATE_GALLERY><![CDATA[Créer une galerie]]></CREATE_GALLERY>
+	<SUCCESS_CREATE_GALLERY><![CDATA[Galerie créée avec succès]]></SUCCESS_CREATE_GALLERY>
+	<ERROR_CREATE_GALLERY><![CDATA[Impossible de créer la galerie]]></ERROR_CREATE_GALLERY>
+	<SUCCESS_ARCHIVE_GALLERY><![CDATA[Galerie archivée avec succès]]></SUCCESS_ARCHIVE_GALLERY>
+	<ERROR_ARCHIVE_GALLERY><![CDATA[Impossible d'archiver la galerie]]></ERROR_ARCHIVE_GALLERY>
+	<CONFIRM_ARCHIVE_GALLERY><![CDATA[Êtes vous sûr de vouloir archiver cette galerie ?]]></CONFIRM_ARCHIVE_GALLERY>
+	<RESTORE_GALLERY><![CDATA[Restaurer la galerie]]></RESTORE_GALLERY>
+	<SUCCESS_RESTORE_GALLERY><![CDATA[Galerie restaurée avec succès]]></SUCCESS_RESTORE_GALLERY>
+	<ERROR_RESTORE_GALLERY><![CDATA[Impossible de restaurer la galerie]]></ERROR_RESTORE_GALLERY>
+	<SUCCESS_DELETE_GALLERY><![CDATA[Galerie supprimée avec succès]]></SUCCESS_DELETE_GALLERY>
+	<ERROR_DELETE_GALLERY><![CDATA[Impossible de supprimer la galerie]]></ERROR_DELETE_GALLERY>
+	<CONFIRM_DELETE_GALLERY><![CDATA[Êtes vous sûr de vouloir supprimer cette galerie ?]]></CONFIRM_DELETE_GALLERY>
+	<ACTIVE_GALLERIES><![CDATA[Galeries active]]></ACTIVE_GALLERIES>
+	<ARCHIVED_GALLERIES><![CDATA[Galeries archivées]]></ARCHIVED_GALLERIES>
+	<ADD_MEDIA><![CDATA[Ajouter un ou des médias]]></ADD_MEDIA>
+	<ADD_MEDIA_TOOLTIP><![CDATA[Vous pouvez ajouter un ou plusieurs médias à votre galerie en renseignant l'identifiant du nouveau média, ou les identifiants des nouveaux médias séparés  par des virgules (ex 12,15,36)]]></ADD_MEDIA_TOOLTIP>
+	<SUCCESS_ADD_MEDIA><![CDATA[Médias ajoutés avec succès]]></SUCCESS_ADD_MEDIA>
+	<ERROR_ADD_MEDIA><![CDATA[Impossible d'ajouter les médias]]></ERROR_ADD_MEDIA>
+	<CONFIRM_REMOVE_MEDIA><![CDATA[Êtes vous sûr de vouloir retirer ce média ?]]></CONFIRM_REMOVE_MEDIA>
+	<SUCCESS_REMOVE_MEDIA><![CDATA[Média retiré avec succès]]></SUCCESS_REMOVE_MEDIA>
+	<ERROR_REMOVE_MEDIA><![CDATA[Impossible de retirer ce média]]></ERROR_REMOVE_MEDIA>
+	<CONFIRM_DELETE_MEDIA><![CDATA[Êtes vous sûr de vouloir supprimer ce média de votre galerie et de vos médias ?]]></CONFIRM_DELETE_MEDIA>
+	<SUCCESS_DELETE_MEDIA><![CDATA[Média supprimé avec succès]]></SUCCESS_DELETE_MEDIA>
+	<ERROR_DELETE_MEDIA><![CDATA[Impossible de supprimer ce média]]></ERROR_DELETE_MEDIA>
+</translations>

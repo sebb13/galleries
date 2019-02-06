@@ -1,0 +1,128 @@
+.gallery-link {
+	cursor: pointer;
+	position: relative;
+}
+.gallery-contents {
+	display:none;
+}
+.cover-img {
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+	width:100%;
+}
+/*galeries*/
+ul.first {
+  padding:0;
+  margin:0;
+  width:100%;
+}
+ul.first li {
+  list-style:none;
+  margin-bottom:15px;
+}
+ul.first li img {
+	cursor: pointer;
+}
+#bsPhotoGalleryModal .modal-content {
+    border-radius:0;
+}
+#bsPhotoGalleryModal .modal-dialog img {
+    text-align:center;
+    margin:0 auto;
+    width:100%;
+}
+#bsPhotoGalleryModal .modal-body {
+    padding:0px !important;
+}
+#bsPhotoGalleryModal .bsp-close {
+  position: absolute;
+  right: -14px;
+  top: -11px;
+  font-size: 30px;
+  color:#fff;
+  text-shadow: 1px 1px 18px #000;
+}
+
+#bsPhotoGalleryModal .bsp-close:hover {
+  cursor: pointer;
+  opacity:.6;
+  text-shadow: none;
+
+}
+.bspHasModal {
+  cursor: pointer;
+}
+.bspHasModal .text {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.imgWrapper {
+	border-top:1px solid #dfd5c5;
+	border-left:1px solid #dfd5c5;
+	border-right:1px solid #dfd5c5;
+	overflow: hidden;
+	max-height: 80px;
+}
+
+a.bsp-controls,
+a.bsp-controls:visited,
+a.bsp-controls:active {
+  position: absolute;
+  top: 44%;
+  font-size: 26px;
+  color: #fff;
+  text-shadow: 1px 1px 18px #000;
+}
+a.bsp-controls.next {
+  right:-10px;
+}
+a.bsp-controls.previous {
+  left:-10px;
+}
+a.bsp-controls:hover {
+  opacity:.6;
+  text-shadow: none;
+}
+.bsp-text-container {
+  clear:both;
+  display:block;
+  padding-bottom: 5px;
+}
+#bsPhotoGalleryModal h6{
+  margin-bottom: 0;
+  font-weight: bold;
+  color: #000;
+  font-size: 14px;
+  padding-left: 12px;
+  padding-right: 12px;
+  margin-bottom: 5px;
+}
+#bsPhotoGalleryModal .pText {
+  font-size: 16px;
+  margin-bottom: 0px;
+  padding: 0 12px 5px;
+}
+.text {
+	border-bottom:1px solid #dfd5c5;
+	border-left:1px solid #dfd5c5;
+	border-right:1px solid #dfd5c5;
+    font-size: 12px;
+	background-color: #dfd5c5;
+	padding:5px 5px 0 5px;
+	min-height: 20px;
+}
+@media screen and (max-width: 767px) {
+	.imgWrapper {
+		max-height: 99px;
+	}
+}
+@media screen and (max-width: 380px){
+   .col-xxs-12 {
+     width:100%;
+   }
+   .col-xxs-12 img {
+     width:100%;
+   }
+}

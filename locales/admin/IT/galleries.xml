@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translations>
+	<GALLERIES><![CDATA[Gallerie]]></GALLERIES>
+	<GALLERIES_MANAGER><![CDATA[Galleria Manager]]></GALLERIES_MANAGER>
+	<MANAGE_GALLERIES><![CDATA[Gestione delle gallerie]]></MANAGE_GALLERIES>
+	<MANAGE_GALLERY><![CDATA[Gestisci questa galleria]]></MANAGE_GALLERY>
+	<MANAGE_ARCHIVED_GALLERIES><![CDATA[Gestire gallerie archiviat]]></MANAGE_ARCHIVED_GALLERIES>
+	<CREATE_GALLERY><![CDATA[Crea una galleria]]></CREATE_GALLERY>
+	<SUCCESS_CREATE_GALLERY><![CDATA[Galleria creata con successo]]></SUCCESS_CREATE_GALLERY>
+	<ERROR_CREATE_GALLERY><![CDATA[Impossibile creare la galleria]]></ERROR_CREATE_GALLERY>
+	<SUCCESS_ARCHIVE_GALLERY><![CDATA[Galleria archiviata con successo]]></SUCCESS_ARCHIVE_GALLERY>
+	<ERROR_ARCHIVE_GALLERY><![CDATA[Impossibile archiviare la galleria]]></ERROR_ARCHIVE_GALLERY>
+	<CONFIRM_ARCHIVE_GALLERY><![CDATA[Sei sicuro di voler archiviare questa galleria?]]></CONFIRM_ARCHIVE_GALLERY>
+	<RESTORE_GALLERY><![CDATA[Ripristina galleria]]></RESTORE_GALLERY>
+	<SUCCESS_RESTORE_GALLERY><![CDATA[La galleria è stata ripristinata correttamente]]></SUCCESS_RESTORE_GALLERY>
+	<ERROR_RESTORE_GALLERY><![CDATA[Impossibile ripristinare la galleria]]></ERROR_RESTORE_GALLERY>
+	<SUCCESS_DELETE_GALLERY><![CDATA[Galleria eliminata con successo]]></SUCCESS_DELETE_GALLERY>
+	<ERROR_DELETE_GALLERY><![CDATA[Impossibile eliminare la galleria]]></ERROR_DELETE_GALLERY>
+	<CONFIRM_DELETE_GALLERY><![CDATA[Sei sicuro di voler eliminare questa galleria?]]></CONFIRM_DELETE_GALLERY>
+	<ACTIVE_GALLERIES><![CDATA[Gallerie attive]]></ACTIVE_GALLERIES>
+	<ARCHIVED_GALLERIES><![CDATA[Gallerie d'archivio]]></ARCHIVED_GALLERIES>
+	<ADD_MEDIA><![CDATA[Aggiungere un supporto]]></ADD_MEDIA>
+	<ADD_MEDIA_TOOLTIP><![CDATA[È possibile aggiungere uno o più supporti alla tua galleria compilando l'ID del nuovo supporto o i nuovi ID del supporto separati da virgole (ex 12,15,36)]]></ADD_MEDIA_TOOLTIP>
+	<SUCCESS_ADD_MEDIA><![CDATA[I supporti sono stati aggiunti con successo]]></SUCCESS_ADD_MEDIA>
+	<ERROR_ADD_MEDIA><![CDATA[Impossibile aggiungere i supporti]]></ERROR_ADD_MEDIA>
+	<CONFIRM_REMOVE_MEDIA><![CDATA[Sei sicuro di voler rimuovere questo supporto?]]></CONFIRM_REMOVE_MEDIA>
+	<SUCCESS_REMOVE_MEDIA><![CDATA[I supporti sono stati rimossi]]></SUCCESS_REMOVE_MEDIA>
+	<ERROR_REMOVE_MEDIA><![CDATA[Impossibile rimuovere questo supporto]]></ERROR_REMOVE_MEDIA>
+	<CONFIRM_DELETE_MEDIA><![CDATA[Sei sicuro di voler eliminare questo supporto dalla tua galleria e dai tuoi media?]]></CONFIRM_DELETE_MEDIA>
+	<SUCCESS_DELETE_MEDIA><![CDATA[I supporti sono stati eliminati correttamente]]></SUCCESS_DELETE_MEDIA>
+	<ERROR_DELETE_MEDIA><![CDATA[Impossibile eliminare questo supporto]]></ERROR_DELETE_MEDIA>
+</translations>
